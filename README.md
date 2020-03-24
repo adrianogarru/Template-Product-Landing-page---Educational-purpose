@@ -2,9 +2,13 @@
 Template based on only HTML CSS responsive to desktop and mobile devices
 
 #Autorh: Adriano Garruba
+
 #Contact: adrianogarru@hotmail.it
+
 #Title: Basic product landing page Template (Educational purpose)
+
 #Description: Exercise from FreeCodeCamp, this teamplate is for Product Landing page and it's mobile friendly.
+
 #Version: 1.0 24/3/2020
 
 This template based on HTML and CSS is structured:
